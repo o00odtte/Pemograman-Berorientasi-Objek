@@ -1,6 +1,6 @@
 package Pertemuan3;
 
-public class p002WorkingVariable {
+public class p022WorkingVariable {
     public static void main(String[] args) {
         //Deklarasi dan inisialisasi variabel
         int angka = 10;
@@ -16,3 +16,8 @@ public class p002WorkingVariable {
     }
     
 }
+
+/* Nama : Oktavia Namu Erdita 
+NIM : D1041241072
+Tangal : Kamis, 12 Februari 2026
+*/
