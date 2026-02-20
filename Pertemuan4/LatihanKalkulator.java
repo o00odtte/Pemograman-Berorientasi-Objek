@@ -11,7 +11,7 @@ public class LatihanKalkulator {
         System.out.println("Penjumlahan: " + (angka1 + angka2));
         System.out.println("Pengurangan: " + (angka1 - angka2));
         System.out.println("Perkalian: " + (angka1 * angka2));
-        System.out.println("Pembagian: " + /*(double)*/ (angka1 / angka2));
+        System.out.println("Pembagian: " + (angka1 / angka2));
         System.out.println("Sisa bagi: " + (angka1 % angka2));
         System.out.println("Pembagian Desimal: " + ((double)angka1 / angka2));
     }
