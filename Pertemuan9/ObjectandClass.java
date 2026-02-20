@@ -34,7 +34,7 @@ public class ObjectandClass {
         mobil1.merk = "Honda Civic R";
         mobil1.warna = "Rose Pink";
         mobil1.tahun = 2025;
-        mobil1.kecepatan = 0;
+        mobil1.kecepatan = 0; //kecepatan awal
 
         //Menjalankan method percepat(menambah kecepatan)
         mobil1.tampilkanInfo();
