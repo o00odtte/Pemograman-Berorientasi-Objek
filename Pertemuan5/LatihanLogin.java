@@ -9,7 +9,7 @@ public class LatihanLogin {
 
         // Input yang akan divalidasi
         String inputUsername = "admin";
-        String inputPassword = "123";
+        String inputPassword = "admin123";
 
         System.out.println("=== VALIDASI LOGIN ===");
         System.out.println("Username: " + inputUsername);
