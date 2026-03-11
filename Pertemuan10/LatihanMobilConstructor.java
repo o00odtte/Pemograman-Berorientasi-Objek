@@ -1,5 +1,7 @@
+package Pertemuan10;
+
 public class LatihanMobilConstructor {
-     static class Mobil {
+    static class Mobil {
         String merk;
         String warna;
         int tahun;

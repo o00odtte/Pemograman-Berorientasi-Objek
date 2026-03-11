@@ -1,3 +1,5 @@
+package Pertemuan10;
+
 public class LatihanPersegiConstructor {
      static class Persegi {
         int sisi;
